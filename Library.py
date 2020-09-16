@@ -1,5 +1,4 @@
 # Author: Luwey Hon
-# Date: 4/12/20
 # Description:  This program represent a library. It consist of a Libraryitem class
 # which has Book, Album, and Movies as its subclasses since these are items that
 # can be checked out in a library. It also has a Patron class which has Patron's
